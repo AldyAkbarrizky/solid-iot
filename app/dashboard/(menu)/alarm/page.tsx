@@ -97,7 +97,7 @@ const Alarm = () => {
             title="CO2 / Barometric Pressure"
           >
             <div className="flex flex-col justify-center items-center h-full">
-              <span className="font-bold">Temperature</span>
+              <span className="font-bold">Wind Speed</span>
               <div className="w-32 h-32 mt-2">
                 <CircularProgressbarWithChildren
                   value={6}
